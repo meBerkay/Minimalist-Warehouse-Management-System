@@ -1,0 +1,19 @@
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\DEPO YÖNETİMİ UYGULAMASI.exe.config
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\DEPO YÖNETİMİ UYGULAMASI.exe
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\DEPO YÖNETİMİ UYGULAMASI.pdb
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_yazilim.csproj.AssemblyReference.cache
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_yazılımı.Properties.Resources.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_yazilim.csproj.GenerateResource.cache
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_yazilim.csproj.CoreCompileInputs.cache
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\DEPO YÖNETİMİ UYGULAMASI.exe
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\DEPO YÖNETİMİ UYGULAMASI.pdb
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.Form2.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.Form1.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.userControlDepo.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.userControlDepoDurum.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.userControlDepoTeslim.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_uygulamasi.userControlMalzeme.resources
+C:\Users\bcano\OneDrive\Masaüstü\stok-yonetimi-uygulamasi-main\depo_yonetim_yazilim\obj\Debug\depo_yonetim_yazılımı.Form3.resources
